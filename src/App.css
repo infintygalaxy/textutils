@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.main{
+  background-attachment: black;
+
+}
+ul{
+  list-style: none;
+  display: flex;
+  height: 50px;
+}
+li{
+  padding: 25px;
+}
